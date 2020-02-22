@@ -1,0 +1,1 @@
+My first idea is to create a "hotter-colder" game in which the screen will initially start off black and then as you click around the canvas, you'll get an audible affirmation or negation of how close you are to the target as well as a small animation to support the response. Once you finally find and click on the target, it will show up and the game will restart.
